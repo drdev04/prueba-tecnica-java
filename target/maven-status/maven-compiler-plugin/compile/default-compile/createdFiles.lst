@@ -1,0 +1,7 @@
+com\socialmedia\model\User.class
+com\socialmedia\ui\ConsoleInterface.class
+com\socialmedia\exceptions\UserNotFoundException.class
+com\socialmedia\Main.class
+com\socialmedia\repository\UserRepository.class
+com\socialmedia\model\Post.class
+com\socialmedia\service\SocialMediaService.class
